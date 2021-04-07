@@ -5,7 +5,7 @@
   --text-color: #555;
   --blockquote-color: #666;
   --link-color: #555;
-  --link-hover-color: #fbe;
+  --link-hover-color: #bbf;
   --brand-color: #fff;
   --brand-hover-color: #fff;
   --table-row-odd-bg-color: #f9f9f9;
@@ -14,9 +14,9 @@
   --btn-default-bg: #fff;
   --btn-default-color: #555;
   --btn-default-border-color: #555;
-  --btn-default-hover-bg: #fbe;
+  --btn-default-hover-bg: #bbf;
   --btn-default-hover-color: #fff;
-  --btn-default-hover-border-color: #fbe;
+  --btn-default-hover-border-color: #bbf;
   --highlight-background: #f0f0f0;
   --highlight-foreground: #444;
   --highlight-gutter-background: #dedede;
@@ -1133,7 +1133,7 @@ pre code {
   padding-top: 0;
 }
 .headband {
-  background: #fbe;
+  background: #bbf;
   height: 3px;
 }
 @media (max-width: 991px) {
@@ -1457,7 +1457,7 @@ pre code {
   height: 12px;
   padding: 6px 5px;
   width: 14px;
-  background: #fbe;
+  background: #bbf;
   cursor: pointer;
   opacity: 0.6;
   position: fixed;
@@ -1692,7 +1692,7 @@ pre code {
   color: #fff;
   padding: 0 6px;
   transition: bottom 0.2s ease-in-out;
-  background: #fbe;
+  background: #bbf;
   cursor: pointer;
   opacity: 0.6;
   position: fixed;
@@ -1842,7 +1842,7 @@ pre code {
   border-bottom-color: #666;
 }
 .posts-collapse .post-content .post-header:hover::before {
-  background: #fbe;
+  background: #bbf;
 }
 .posts-collapse .post-content .post-meta-container {
   display: inline;
@@ -2268,11 +2268,11 @@ pre code {
   padding-left: 10px;
 }
 .event-list hr {
-  background: #fbe;
+  background: #bbf;
   margin: 20px 0 45px;
 }
 .event-list hr::after {
-  background: #fbe;
+  background: #bbf;
   color: #fff;
   content: 'NOW';
   display: inline-block;
@@ -2280,7 +2280,7 @@ pre code {
   padding: 0 5px;
 }
 .event-list .event {
-  --event-background: #fbe;
+  --event-background: #bbf;
   --event-foreground: #bbb;
   --event-title: #fff;
   background: var(--event-background);
@@ -2344,7 +2344,7 @@ pre code {
 .event-list .event-past {
   --event-background: #f5f5f5;
   --event-foreground: #999;
-  --event-title: #fbe;
+  --event-title: #bbf;
 }
 @-moz-keyframes dot-flash {
   from {
@@ -2519,7 +2519,7 @@ ul.breadcrumb li:last-child {
   }
 }
 .site-brand-container {
-  background: #fbe;
+  background: #bbf;
 }
 @media (max-width: 991px) {
   .site-nav-on .site-brand-container {
